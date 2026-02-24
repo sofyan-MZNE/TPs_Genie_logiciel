@@ -33,4 +33,7 @@ public class Product {
     @PositiveOrZero(message = "Stock cannot be negative")
     @Column(nullable = false)
     private Integer stock;
+    @ManyToOne
+    @JoinColumn(name = "category_id")
+    private Category category;
 }
