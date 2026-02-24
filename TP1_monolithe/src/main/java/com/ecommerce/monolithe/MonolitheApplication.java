@@ -10,4 +10,3 @@ public class MonolitheApplication {
         SpringApplication.run(MonolitheApplication.class, args);
     }
 }
-9+
