@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/monolithe.iml" filepath="$PROJECT_DIR$/.idea/monolithe.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/monolith.iml" filepath="$PROJECT_DIR$/.idea/monolith.iml" />
+>>>>>>> e793cb8 (Finalisation TP1 : Gestion de Produits Simple (Monolithe))
+    </modules>
+  </component>
+</project>
